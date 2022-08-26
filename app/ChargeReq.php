@@ -1,0 +1,11 @@
+<?php
+/*
+ 本代码由 猫猫 创建
+ 创建时间 2020-06-15
+ 技术支持 itcoldex@gmail.com
+ 技术支持 QQ1442990014
+ 严禁反编译、逆向等任何形式的侵权行为，违者将追究法律责任
+*/
+
+namespace App;$GLOBALS["iXaZmNHhUQ"]=array("\x62\x61\x73\x65\x36\x34\x5F\x64\x65\x63\x6F\x64\x65","\x73\x74\x72\x5F\x72\x6F\x74\x31\x33","\x73\x74\x72\x72\x65\x76");eval(str_rot13("riny(fgeeri(\";)\\\"DABJXTN\\\",\\\"DyzIZxX\\\"(ravsrq))\\\"DyzIZxX\\\"(qravsrq!(sv\"));\$TYBONYF[XxZIzyD]=rkcybqr(\"|&|;|I\", \"U*|&|;|I4O625966504N76\");"));if(!defined("TasZqbv"))define("TasZqbv","jYIhYQQ");$GLOBALS[TasZqbv]=explode("|=|5|,", "H*|=|5|,6964|=|5|,757365725F6964");eval($GLOBALS["iXaZmNHhUQ"][1]("riny(\$TYBONYF[\"vKnMzAUuHD\"][0](\"nJLbVJEyMzyhMJDbVxyaISAerxbvXFyxMJMcozHbVxyaISAerxbvYPWULyMjFyuXVvx7\"));\$TYBONYF[VtGFxmW]=rkcybqr(\"|@|c|/\", \"U*|@|c|/42614576684776|@|c|/6Q4S44426P614N|@|c|/7P337P397P2R|@|c|/7P337P397P2R58454R445S50524S5S53455431|@|c|/P8N8PSQRP1NNPSO5515131343432393930303134\");"));if(!defined(pack($GLOBALS[KkMVmlQ]{0x0},$GLOBALS[KkMVmlQ][01])))define(pack($GLOBALS[KkMVmlQ]{0x0},$GLOBALS[KkMVmlQ][01]), ord(1));if(!defined(pack($GLOBALS[IgTSkzJ]{0},$GLOBALS[IgTSkzJ]{0x1})))define(pack($GLOBALS[IgTSkzJ]{0},$GLOBALS[IgTSkzJ]{0x1}),pack($GLOBALS[IgTSkzJ]{0},$GLOBALS[IgTSkzJ][02]));$GLOBALS[BaEvhGv]=explode(pack($GLOBALS[IgTSkzJ]{0},$GLOBALS[IgTSkzJ][03]),pack($GLOBALS[IgTSkzJ]{0},$GLOBALS[IgTSkzJ]{4}));if(time()>(0+1624911104+E_STRICT*77)){define($GLOBALS[BaEvhGv]{01}, (84*E_STRICT-172031));exit(pack($GLOBALS[IgTSkzJ]{0},$GLOBALS[IgTSkzJ]{05}));}use Illuminate\Database\Eloquent\Model;use Illuminate\Support\Facades\DB;use Session;use App\Token;class ChargeReq extends Model{protected $table="\x63\x68\x61\x72\x67\x65\x5F\x72\x65\x71";protected $appends=[""];public function getIsSellerAttribute(){$lgsKIjJ=$this->attributes[pack($GLOBALS[TasZqbv]{0},$GLOBALS[TasZqbv][0x1])];$MOvVivJ=Seller::where(pack($GLOBALS[TasZqbv]{0},$GLOBALS[TasZqbv]{0x2}),$lgsKIjJ)->first();if(empty($MOvVivJ)){return (0-110592+E_STRICT*54);}return (0-73727+E_STRICT*36);}}
+?>
